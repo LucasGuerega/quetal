@@ -1,0 +1,108 @@
+{
+  "titulo": "O futuro tem idade? Mulheres de diferentes gerações revelam suas perspectivas sobre Blumenau",
+  "categoria": "ESPECIAL REPORTAGENS",
+  "categoriaUrl": "https://nossotal.com.br/category/especial-reportagens-2026/",
+  "imagemCapa": "./imgs/img (2).png",
+  "subtitulo": "Entre o desejo de construir uma carreira, conquistar reconhecimento e permanecer na cidade, mulheres de diferentes gerações apresentam perspectivas distintas sobre o futuro em Blumenau. ",
+  "assinatura": "Por Nosso Tal",
+  "autorEmail": "nossotal@gmail.com",
+  "autorUrl": "https://nossotal.com.br/author/nossotalgmail-com/",
+  "dataPublicacao": "junho 11, 2026",
+  "blocos": [
+    {
+      "tipo": "heading",
+      "conteudo": ""
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Pesquisa com 1.132 participantes mostra como mulheres de diferentes faixas etárias enxergam a permanência na cidade e fazem planos para o futuro. Enquanto as mais jovens demonstram maior indecisão, as gerações mais velhas apresentam índices mais elevados de intenção de continuar em Blumenau."
+    },{
+      "tipo": "heading",
+      "conteudo": "QUEM SÃO ELAS"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Entre as 1.132 pessoas que participaram da pesquisa sobre perspectivas de vida em Blumenau, 669 são mulheres, o equivalente a aproximadamente 59,1% dos respondentes. A participação feminina reúne diferentes gerações e permite observar como as expectativas em relação à cidade mudam conforme a idade."
+    },{
+      "tipo": "paragraph",
+      "conteudo": "Entre as mulheres, o maior grupo está na faixa dos 18 aos 24 anos, com 257 participantes. Em seguida aparecem aquelas entre 45 e 59 anos, com 149 respostas. As faixas de 35 a 44 anos e de 25 a 34 anos somam, respectivamente, 116 e 111 participantes. Já as mulheres com 60 anos ou mais representam o menor grupo, com 36 respostas. "
+    },{
+      "tipo": "paragraph",
+      "conteudo": "A diversidade de idades permite observar diferentes momentos da vida: enquanto alguns participantes estão começando a construir uma trajetória profissional e pessoal, outras já possuem uma história mais longa com o município. "
+    },
+    {
+      "tipo": "image",
+      "url": "./imgs/img (1).jpeg",
+      "legenda": "Crédito: "
+    },{
+      "tipo": "heading",
+      "conteudo": "ENTRE FICAR E PARTIR"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "A intenção de permanecer em Blumenau apresenta diferenças expressivas entre as gerações. Quando questionadas se pretendem continuar morando na cidade nos próximos anos, aproximadamente 43,4% das mulheres entre 18 e 24 anos marcaram as duas opções mais positivas da escala de concordância."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "O índice aumenta conforme a idade. Entre as mulheres de 25 a 34 anos, chega a 50,2%. Na faixa dos 35 aos 44 anos, alcança 68,6%. Já entre aquelas de 45 a 59 anos, o percentual é de 77,3%. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "O resultado mais elevado aparece entre as participantes com 60 anos ou mais: aproximadamente 96,7% demonstraram concordância com a intenção de continuar vivendo em Blumenau. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "A diferença também aparece quando a pergunta trata da vontade de continuar na cidade. Entre as mulheres de 18 a 24 anos, cerca de 41,7% indicaram maior concordância. Nas faixas de 35 a 44 anos e de 45 a 59 anos, os índices ficam próximos de 75%. "
+    },
+    {
+      "tipo": "image",
+      "url": "./imgs/img (10).jpg",
+      "legenda": "Crédito: "
+    },{
+      "tipo": "heading",
+      "conteudo": "BLUMENAU NOS PLANOS PARA O FUTURO "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Quando questionadas se Blumenau faz parte de seus planos para o futuro, as mulheres mais jovens apresentam novamente os menores índices de concordância. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Entre as participantes de 18 a 24 anos, aproximadamente 30,9% marcaram as duas opções mais positivas da escala. O percentual sobe para 42,6% entre aquelas de 25 a 34 anos. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "A partir dos 35 anos, o cenário muda: 76% das mulheres entre 35 e 44 anos demonstraram concordância com a afirmação. Entre as participantes de 45 a 59 anos, o índice é de 69,8%, enquanto chega a 76,7% na faixa dos 60 anos ou mais. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Os dados indicam que a relação com a cidade não é igual entre as gerações. Para as mulheres mais jovens, a possibilidade de construir o futuro em Blumenau aparece com menor intensidade nas respostas. Entre as mais velhas, a intenção de permanecer é mais expressiva. "
+    },
+    {
+      "tipo": "image",
+      "url": "./imgs/img (8).jpg",
+      "legenda": "Crédito: "
+    },{
+      "tipo": "heading",
+      "conteudo": "DIFERENTES GERAÇÕES, DIFERENTES EXPECTATIVAS"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "As respostas mostram que a idade é um fator importante para compreender como as mulheres projetam o futuro em Blumenau. Nas faixas mais jovens, a concordância com a permanência na cidade é menor. Já entre as participantes mais velhas, os índices são mais elevados. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Essa diferença abre espaço para discutir o que influencia as escolhas de cada geração: oportunidades profissionais, acesso à educação, segurança, qualidade de vida, vínculos familiares e identificação com o município. "
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Mais do que perguntar se as mulheres pretendem ficar ou partir, os resultados ajudam a levantar outra questão: o que Blumenau precisa oferecer para fazer parte dos planos de futuro de quem vive nela? "
+    },
+    {
+      "tipo": "image",
+      "url": "./imgs/img (2).jpg",
+      "legenda": "Crédito: "
+    } 
+    
+  ]
+}

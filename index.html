@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title id="page-title">Carregando... – TAL</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://nossotal.com.br/wp-content/uploads/2024/11/cropped-cropped-icone-tal-vermelho-32x32.png" sizes="32x32">
+  <style>
+    :root {
+      --font-base: 'Ubuntu', sans-serif;
+      --font-headings: 'Ubuntu', sans-serif;
+      --font-input: 'Poppins', sans-serif;
+      --tal-red: #d11415;
+      --text-main: #222222;
+      --text-muted: #777777;
+      --border-light: #e5e5e5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: var(--font-base);
+      font-weight: 400;
+      color: var(--text-main);
+      background-color: #ffffff;
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Cabeçalho TAL */
+    .site-header {
+      border-bottom: 1px solid var(--border-light);
+      padding: 24px 20px;
+      text-align: center;
+      background: #fff;
+    }
+
+    .site-logo {
+      max-height: 75px;
+      width: auto;
+      display: inline-block;
+    }
+
+    .site-title, .site-description {
+      position: absolute;
+      clip: rect(1px, 1px, 1px, 1px);
+    }
+
+    /* Hero / Imagem de Destaque */
+    .entry-hero {
+      position: relative;
+      width: 100%;
+      max-width: 1140px;
+      margin: 0 auto;
+      background-color: #1a1a1a;
+      overflow: hidden;
+    }
+
+    .post-thumbnail {
+      position: relative;
+      width: 100%;
+      max-height: 560px;
+      overflow: hidden;
+    }
+
+    .post-thumbnail img {
+      width: 100%;
+      height: 560px;
+      object-fit: cover;
+      display: block;
+      filter: brightness(0.72);
+    }
+
+    .entry-header-wrapper {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 60px 40px 36px;
+      background: linear-gradient(to top, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.35) 65%, transparent 100%);
+      color: #ffffff;
+    }
+
+    .entry-header-inner {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    .cat-links a {
+      display: inline-block;
+      background-color: var(--tal-red);
+      color: #ffffff;
+      font-family: var(--font-input);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      text-decoration: none;
+      margin-bottom: 12px;
+    }
+
+    .entry-title {
+      font-family: var(--font-headings);
+      font-size: clamp(1.85rem, 4vw, 2.75rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin: 0;
+      color: #ffffff;
+      text-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+    }
+
+    /* Conteúdo do Artigo */
+    .site-content-inner {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 44px 24px 64px;
+    }
+
+    .entry-content p {
+      font-size: 1.08rem;
+      margin: 0 0 1.45em;
+      color: #2b2b2b;
+    }
+
+    .entry-content h4.wp-block-heading {
+      font-family: var(--font-headings);
+      font-size: 1.38rem;
+      font-weight: 700;
+      color: #111111;
+      margin: 2.1em 0 0.75em;
+      line-height: 1.35;
+    }
+
+    .entry-content blockquote {
+      margin: 1.8em 0;
+      padding: 16px 24px;
+      border-left: 4px solid var(--tal-red);
+      background-color: #fafafa;
+      font-style: italic;
+      color: #333;
+      font-size: 1.12rem;
+    }
+
+    .wp-block-image {
+      margin: 2.2em 0;
+      text-align: center;
+    }
+
+    .wp-block-image img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      border-radius: 2px;
+    }
+
+    .wp-element-caption {
+      font-family: var(--font-input);
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-top: 8px;
+      text-align: left;
+    }
+
+    /* Rodapé do Artigo */
+    .entry-footer {
+      margin-top: 3.5em;
+      padding-top: 20px;
+      border-top: 1px solid var(--border-light);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 18px;
+      font-family: var(--font-input);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .author.vcard {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .author.vcard img {
+      border-radius: 50%;
+    }
+
+    .entry-footer a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .entry-footer a:hover {
+      color: var(--tal-red);
+    }
+
+    @media (max-width: 640px) {
+      .post-thumbnail img { height: 340px; }
+      .entry-header-wrapper { padding: 36px 20px 24px; }
+      .site-content-inner { padding: 30px 18px 48px; }
+    }
+  </style>
+</head>
+<body class="wp-singular post-template-default single single-post single-format-standard wp-custom-logo wp-theme-canard-wpcom">
+  <div id="page" class="hfeed site">
+    <header id="masthead" class="site-header" role="banner">
+      <div class="site-branding">
+        <a href="https://nossotal.com.br/" class="site-logo-link" rel="home">
+          <img id="site-logo" width="279" height="89" src="https://nossotal.com.br/wp-content/uploads/2024/11/cropped-cropped-cropped-logo-tal-icone-vermelho-1.webp" class="site-logo" alt="TAL">
+        </a>
+        <h1 class="site-title"><a href="https://nossotal.com.br/" rel="home">TAL</a></h1>
+      </div>
+    </header>
+
+    <div id="content" class="site-content">
+      <header class="entry-header entry-hero">
+        <div class="post-thumbnail" id="hero-image-container">
+          <img id="hero-image" src="" alt="">
+        </div>
+        <div class="entry-header-wrapper">
+          <div class="entry-header-inner">
+            <div class="entry-meta">
+              <span class="cat-links"><a id="article-category" href="#">CATEGORIA</a></span>
+            </div>
+            <h1 class="entry-title" id="article-title">Carregando matéria...</h1>
+          </div>
+        </div>
+      </header>
+
+      <div class="site-content-inner">
+        <div id="primary" class="content-area">
+          <main id="main" class="site-main" role="main">
+            <article class="post type-post status-publish format-standard has-post-thumbnail">
+              <div class="entry-content" id="article-content"></div>
+
+              <footer class="entry-footer">
+                <span class="byline">
+                  <span class="author vcard">
+                    <img id="author-avatar" alt="" src="https://secure.gravatar.com/avatar/ef27c01a52c9718e8835a6105ba5dc675eb50dc3e7af18bf9e8d5286847ba80d?s=40&d=mm&r=g" height="20" width="20">
+                    <a id="author-name" class="url fn n" href="#">nossotal@gmail.com</a>
+                  </span>
+                </span>
+                <span class="posted-on">
+                  <a id="article-link" href="#" rel="bookmark">
+                    <time id="article-date" class="entry-date published"></time>
+                  </a>
+                </span>
+              </footer>
+            </article>
+          </main>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Renderiza qualquer objeto JSON no formato do portal TAL
+    function renderizarArtigo(dados) {
+      document.title = `${dados.titulo} – TAL`;
+      document.getElementById('article-title').textContent = dados.titulo || '';
+
+      const catEl = document.getElementById('article-category');
+      catEl.textContent = dados.categoria || 'REPORTAGEM';
+      catEl.href = dados.categoriaUrl || '#';
+
+      const heroImg = document.getElementById('hero-image');
+      if (dados.imagemCapa) {
+        heroImg.src = dados.imagemCapa;
+        heroImg.alt = dados.titulo || '';
+        document.getElementById('hero-image-container').style.display = 'block';
+      } else {
+        document.getElementById('hero-image-container').style.display = 'none';
+      }
+
+      document.getElementById('author-name').textContent = dados.autorEmail || 'nossotal@gmail.com';
+      document.getElementById('author-name').href = dados.autorUrl || '#';
+      if (dados.autorAvatar) {
+        document.getElementById('author-avatar').src = dados.autorAvatar;
+      }
+      document.getElementById('article-date').textContent = dados.dataPublicacao || '';
+
+      const container = document.getElementById('article-content');
+      container.innerHTML = '';
+
+      if (dados.subtitulo) {
+        const sub = document.createElement('p');
+        sub.innerHTML = `<em>${dados.subtitulo}</em>`;
+        container.appendChild(sub);
+      }
+
+      if (dados.assinatura) {
+        const ass = document.createElement('p');
+        ass.innerHTML = `<em>${dados.assinatura}</em>`;
+        container.appendChild(ass);
+      }
+
+      (dados.blocos || []).forEach(bloco => {
+        if (bloco.tipo === 'heading') {
+          const h4 = document.createElement('h4');
+          h4.className = 'wp-block-heading';
+          h4.innerHTML = `<strong>${bloco.conteudo}</strong>`;
+          container.appendChild(h4);
+        } else if (bloco.tipo === 'paragraph') {
+          const p = document.createElement('p');
+          p.innerHTML = bloco.conteudo;
+          container.appendChild(p);
+        } else if (bloco.tipo === 'quote') {
+          const bq = document.createElement('blockquote');
+          bq.innerHTML = bloco.conteudo;
+          container.appendChild(bq);
+        } else if (bloco.tipo === 'image') {
+          const fig = document.createElement('figure');
+          fig.className = 'wp-block-image size-large';
+          const img = document.createElement('img');
+          img.src = bloco.url;
+          img.alt = bloco.legenda || '';
+          img.loading = 'lazy';
+          fig.appendChild(img);
+
+          if (bloco.legenda) {
+            const cap = document.createElement('figcaption');
+            cap.className = 'wp-element-caption';
+            cap.innerHTML = bloco.legenda;
+            fig.appendChild(cap);
+          }
+          container.appendChild(fig);
+        }
+      });
+    }
+
+    // Carrega o arquivo artigo.json externo
+    async function carregarJSON() {
+      const params = new URLSearchParams(window.location.search);
+      const arquivoJson = params.get('json') || './artigo.json';
+
+      try {
+        const resposta = await fetch(arquivoJson, { cache: 'no-store' });
+        if (!resposta.ok) throw new Error('Falha ao carregar JSON');
+        const dados = await resposta.json();
+        renderizarArtigo(dados);
+      } catch (erro) {
+        console.error(erro);
+        document.getElementById('article-title').textContent = 'Erro ao carregar artigo.json';
+        document.getElementById('article-content').innerHTML =
+          '<p>Não foi possível ler o arquivo <code>artigo.json</code>. Certifique-se de que ele está na mesma pasta e sendo servido via HTTP/HTTPS.</p>';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', carregarJSON);
+  </script>
+</body>
+</html>
