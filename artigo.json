@@ -1,13 +1,13 @@
 {
-  "titulo": "O futuro tem idade? Mulheres de diferentes gerações revelam suas perspectivas sobre Blumenau",
+  "titulo": "Mulheres de Blumenau: sonhos, escolhas e diferentes formas de imaginar o futuro",
   "categoria": "ESPECIAL REPORTAGENS",
   "categoriaUrl": "https://nossotal.com.br/category/especial-reportagens-2026/",
-  "imagemCapa": "./imgs/img (2).png",
-  "subtitulo": "Entre o desejo de construir uma carreira, conquistar reconhecimento e permanecer na cidade, mulheres de diferentes gerações apresentam perspectivas distintas sobre o futuro em Blumenau. ",
-  "assinatura": "Por Nosso Tal",
-  "autorEmail": "nossotal@gmail.com",
+  "imagemCapa": "./imgs/imagem.png",
+  "subtitulo": "Entre a busca por estabilidade, os planos profissionais e a vontade de construir uma vida na cidade, as mulheres de Blumenau revelam o que esperam dos próximos anos.",
+  "assinatura": "Por Que Tal",
+  "autorEmail": "quetal@gmail.com",
   "autorUrl": "https://nossotal.com.br/author/nossotalgmail-com/",
-  "dataPublicacao": "junho 11, 2026",
+  "dataPublicacao": "novembro 16, 2026",
   "blocos": [
     {
       "tipo": "heading",
@@ -15,94 +15,149 @@
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Pesquisa com 1.132 participantes mostra como mulheres de diferentes faixas etárias enxergam a permanência na cidade e fazem planos para o futuro. Enquanto as mais jovens demonstram maior indecisão, as gerações mais velhas apresentam índices mais elevados de intenção de continuar em Blumenau."
-    },{
-      "tipo": "heading",
-      "conteudo": "QUEM SÃO ELAS"
+      "conteudo": "O futuro pode significar coisas muito diferentes dependendo do momento da vida. Para algumas mulheres, ele tem a forma de uma casa própria, de uma carreira estável ou da tranquilidade de não precisar se preocupar com dinheiro. Para outras, está ligado a conhecer novos lugares, viver experiências, conquistar independência e descobrir onde querem estar daqui a alguns anos."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Entre as 1.132 pessoas que participaram da pesquisa sobre perspectivas de vida em Blumenau, 669 são mulheres, o equivalente a aproximadamente 59,1% dos respondentes. A participação feminina reúne diferentes gerações e permite observar como as expectativas em relação à cidade mudam conforme a idade."
-    },{
+      "conteudo": "Em Blumenau, essas expectativas aparecem de maneiras distintas entre mulheres de diferentes gerações. A segurança financeira e a conquista de bens materiais ocupam o primeiro lugar entre os sonhos apontados pelas participantes, mas não são os únicos objetivos. Educação, trabalho, relações pessoais e experiências também fazem parte dos projetos de vida."
+    },
+    {
       "tipo": "paragraph",
-      "conteudo": "Entre as mulheres, o maior grupo está na faixa dos 18 aos 24 anos, com 257 participantes. Em seguida aparecem aquelas entre 45 e 59 anos, com 149 respostas. As faixas de 35 a 44 anos e de 25 a 34 anos somam, respectivamente, 116 e 111 participantes. Já as mulheres com 60 anos ou mais representam o menor grupo, com 36 respostas. "
-    },{
+      "conteudo": "Os dados fazem parte de um levantamento realizado em setembro de 2026, por meio de um questionário disponibilizado no Google Forms e compartilhado com pessoas maiores de 18 anos residentes em Blumenau, o Projeto Focus. Ao todo, 1.143 pessoas participaram da pesquisa, sendo 669 mulheres. Entre elas, a faixa dos 18 aos 24 anos foi a mais representativa, seguida pelas mulheres de 45 a 59 anos."
+    },
+    {
       "tipo": "paragraph",
-      "conteudo": "A diversidade de idades permite observar diferentes momentos da vida: enquanto alguns participantes estão começando a construir uma trajetória profissional e pessoal, outras já possuem uma história mais longa com o município. "
+      "conteudo": "O levantamento reúne respostas de diferentes fases da vida e permite observar como as prioridades e as expectativas podem mudar conforme a idade e as experiências de cada participante."
     },
     {
       "tipo": "image",
-      "url": "./imgs/img (1).jpeg",
-      "legenda": "Crédito: "
-    },{
+      "url": "./imgs/image1.png",
+      "legenda": "Gráfico: Os principais desejos apontados por 669 participantes. Arte: Que Tal"
+    },
+    {
       "tipo": "heading",
-      "conteudo": "ENTRE FICAR E PARTIR"
+      "conteudo": "TER SEGURANÇA PARA ESCOLHER"
     },
     {
       "tipo": "paragraph",
-      "conteudo": "A intenção de permanecer em Blumenau apresenta diferenças expressivas entre as gerações. Quando questionadas se pretendem continuar morando na cidade nos próximos anos, aproximadamente 43,4% das mulheres entre 18 e 24 anos marcaram as duas opções mais positivas da escala de concordância."
+      "conteudo": "Antes de pensar em grandes viagens, reconhecimento ou mudanças, muitas mulheres querem ter uma coisa: segurança. A estabilidade financeira e a conquista de bens materiais foram os principais sonhos apontados pelas participantes, reunindo 34,5% das respostas femininas."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "O índice aumenta conforme a idade. Entre as mulheres de 25 a 34 anos, chega a 50,2%. Na faixa dos 35 aos 44 anos, alcança 68,6%. Já entre aquelas de 45 a 59 anos, o percentual é de 77,3%. "
+      "conteudo": "O desejo pode aparecer de várias formas: conquistar a casa própria, ter um carro, conseguir pagar as próprias contas, construir uma reserva ou simplesmente viver com mais tranquilidade. Além de acumular bens, a estabilidade representa a possibilidade de fazer escolhas com maior autonomia e segurança."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "O resultado mais elevado aparece entre as participantes com 60 anos ou mais: aproximadamente 96,7% demonstraram concordância com a intenção de continuar vivendo em Blumenau. "
+      "conteudo": "Esse cenário também ajuda a compreender por que carreira e educação aparecem logo em seguida. Para 23,8% das mulheres, os principais sonhos estão relacionados à formação e ao desenvolvimento profissional. Estudar, conquistar uma oportunidade, crescer na profissão ou encontrar um trabalho que ofereça melhores condições são caminhos que se conectam à busca por independência."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "A diferença também aparece quando a pergunta trata da vontade de continuar na cidade. Entre as mulheres de 18 a 24 anos, cerca de 41,7% indicaram maior concordância. Nas faixas de 35 a 44 anos e de 45 a 59 anos, os índices ficam próximos de 75%. "
+      "conteudo": "A proximidade entre esses dois temas também chama a atenção. Enquanto a estabilidade financeira aparece como um objetivo, a educação e o desenvolvimento profissional podem representar caminhos para alcançá-la. São dimensões diferentes, mas que se relacionam na construção dos projetos pessoais."
+    },
+    {
+      "tipo": "heading",
+      "conteudo": "UMA VIDA QUE NÃO CABE SÓ NO TRABALHO"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Embora a estabilidade e a carreira tenham grande espaço nos planos, o futuro também é feito daquilo que acontece fora da rotina profissional. Viagens, lazer e novas experiências foram o principal desejo de 13,9% das participantes."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Conhecer outros lugares, aproveitar o tempo livre, experimentar atividades diferentes e ter momentos de descanso aparecem como parte importante dos projetos pessoais. Afinal, construir uma vida não significa apenas trabalhar para alcançar uma meta: também envolve aproveitar o caminho."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "As relações familiares e pessoais seguem presentes nesse imaginário. Para 10% das mulheres, elas representam o principal foco dos sonhos. São planos que podem envolver formar ou ampliar uma família, estar perto de quem se ama, fortalecer vínculos ou construir uma rotina compartilhada."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "As diferentes prioridades mostram que realização não tem uma definição única. Enquanto algumas mulheres encontram sentido na independência e nas conquistas individuais, outras colocam no centro os vínculos e as experiências vividas com outras pessoas."
+    },
+    {
+      "tipo": "heading",
+      "conteudo": "O FUTURO MUDA CONFORME A IDADE"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "A relação com o futuro também apresenta diferenças quando observamos as faixas etárias. Entre as mulheres mais jovens, a ideia de permanecer em Blumenau aparece menos definida. Já entre as participantes com 35 anos ou mais, o desejo de continuar vivendo na cidade aparece com mais força."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "A diferença fica evidente quando se observa a intenção de continuar morando no município nos próximos anos. Entre as mulheres de 18 a 24 anos, 40,9% concordam com essa possibilidade. Na faixa dos 45 aos 59 anos, o índice chega a 77,9%."
     },
     {
       "tipo": "image",
-      "url": "./imgs/img (10).jpg",
-      "legenda": "Crédito: "
-    },{
+      "url": "./imgs/image2.png",
+      "legenda": "Gráfico: A idade também muda a relação com a cidade. Arte: Que Tal"
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Além da diferença entre as respostas, chama a atenção a quantidade de mulheres jovens que ainda não demonstram uma posição definida. Entre as participantes de 18 a 24 anos, 42,4% não concordam nem discordam da afirmação sobre permanecer em Blumenau."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Esse resultado aponta para uma relação ainda em aberto com a cidade. A fase da vida pode envolver decisões sobre formação acadêmica, primeiras experiências profissionais, independência e novas oportunidades. A possibilidade de morar em outro município também pode fazer parte dos planos, embora o levantamento não permita identificar quais fatores influenciam essas respostas."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Entre as mulheres de 45 a 59 anos, por outro lado, a intenção de permanecer em Blumenau é consideravelmente maior. A diferença não significa que todas tenham os mesmos motivos para ficar, mas evidencia que a relação com o município apresenta características distintas entre as gerações."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Os números também levantam uma questão importante para a cidade: o que Blumenau oferece e o que ainda precisa desenvolver para que mulheres mais jovens consigam enxergar possibilidades de construir seu futuro no município?"
+    },
+    {
       "tipo": "heading",
-      "conteudo": "BLUMENAU NOS PLANOS PARA O FUTURO "
+      "conteudo": "SER RECONHECIDA TAMBÉM É UM DESEJO"
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Quando questionadas se Blumenau faz parte de seus planos para o futuro, as mulheres mais jovens apresentam novamente os menores índices de concordância. "
+      "conteudo": "Se a permanência na cidade ganha força entre as gerações mais velhas, o desejo de ter o próprio nome conhecido por muitas pessoas apresenta um movimento diferente. Essa aspiração aparece com mais frequência entre as jovens e perde espaço nas faixas etárias seguintes."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Entre as participantes de 18 a 24 anos, aproximadamente 30,9% marcaram as duas opções mais positivas da escala. O percentual sobe para 42,6% entre aquelas de 25 a 34 anos. "
+      "conteudo": "Entre as mulheres de 18 a 24 anos, 39,7% concordam que gostariam de ser conhecidas por muitas pessoas. Na faixa dos 45 aos 59 anos, o percentual cai para 22,1%."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "A partir dos 35 anos, o cenário muda: 76% das mulheres entre 35 e 44 anos demonstraram concordância com a afirmação. Entre as participantes de 45 a 59 anos, o índice é de 69,8%, enquanto chega a 76,7% na faixa dos 60 anos ou mais. "
+      "conteudo": "O reconhecimento pode estar associado a diferentes objetivos: conquistar espaço profissional, ter visibilidade pelo próprio trabalho, construir uma trajetória pública ou simplesmente ser valorizada pelo que faz. Para algumas mulheres, a visibilidade pode representar uma oportunidade de ampliar possibilidades e alcançar objetivos. Para outras, não é uma prioridade."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Os dados indicam que a relação com a cidade não é igual entre as gerações. Para as mulheres mais jovens, a possibilidade de construir o futuro em Blumenau aparece com menor intensidade nas respostas. Entre as mais velhas, a intenção de permanecer é mais expressiva. "
+      "conteudo": "A diferença entre as gerações também aparece quando se observa o que cada grupo parece valorizar em seus projetos de vida. Enquanto entre as mais jovens o desejo de reconhecimento tem maior presença, entre as participantes mais velhas essa aspiração aparece com menos frequência."
     },
     {
-      "tipo": "image",
-      "url": "./imgs/img (8).jpg",
-      "legenda": "Crédito: "
-    },{
+      "tipo": "paragraph",
+      "conteudo": "Isso não significa que uma geração seja mais ambiciosa que a outra. Os resultados mostram diferentes formas de imaginar a realização pessoal, que podem envolver tanto conquistas públicas quanto objetivos mais reservados."
+    },
+    {
       "tipo": "heading",
-      "conteudo": "DIFERENTES GERAÇÕES, DIFERENTES EXPECTATIVAS"
+      "conteudo": "NÃO EXISTE UM ÚNICO JEITO DE SONHAR"
     },
     {
       "tipo": "paragraph",
-      "conteudo": "As respostas mostram que a idade é um fator importante para compreender como as mulheres projetam o futuro em Blumenau. Nas faixas mais jovens, a concordância com a permanência na cidade é menor. Já entre as participantes mais velhas, os índices são mais elevados. "
+      "conteudo": "Entre os temas apontados pelas participantes, saúde, bem-estar e espiritualidade também aparecem, embora com menor frequência como principal sonho. Mudanças de residência e de estilo de vida foram mencionadas por um grupo ainda menor."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Essa diferença abre espaço para discutir o que influencia as escolhas de cada geração: oportunidades profissionais, acesso à educação, segurança, qualidade de vida, vínculos familiares e identificação com o município. "
+      "conteudo": "Isso não quer dizer que esses assuntos tenham pouca importância na vida das mulheres. O levantamento considera a prioridade escolhida por cada participante, e não reúne tudo aquilo que elas desejam ou valorizam ao mesmo tempo."
     },
     {
       "tipo": "paragraph",
-      "conteudo": "Mais do que perguntar se as mulheres pretendem ficar ou partir, os resultados ajudam a levantar outra questão: o que Blumenau precisa oferecer para fazer parte dos planos de futuro de quem vive nela? "
+      "conteudo": "O conjunto de respostas revela mulheres com expectativas variadas. Há quem esteja pensando em conquistar independência financeira, quem queira crescer profissionalmente, quem sonhe em viajar e quem encontre seus principais planos nas relações pessoais. Há também quem ainda não tenha decidido onde quer estar nos próximos anos."
     },
     {
-      "tipo": "image",
-      "url": "./imgs/img (2).jpg",
-      "legenda": "Crédito: "
-    } 
-    
+      "tipo": "paragraph",
+      "conteudo": "Para Blumenau, compreender essas diferentes expectativas também significa olhar para as condições que permitem às mulheres construir suas trajetórias. O acesso à educação, às oportunidades de trabalho, à moradia e aos espaços de participação faz parte das possibilidades de permanecer ou buscar novos caminhos."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "Mais do que estabelecer uma lista de prioridades, os resultados ajudam a enxergar mulheres em diferentes momentos de suas trajetórias. Algumas estão começando a construir seus caminhos; outras já têm uma relação mais estabelecida com a cidade e com os projetos que desejam manter."
+    },
+    {
+      "tipo": "paragraph",
+      "conteudo": "No fim, falar sobre o futuro das mulheres de Blumenau é também pensar sobre as oportunidades que a cidade oferece para que esses planos se tornem possíveis. Afinal, sonhar com uma vida diferente é importante, mas ter condições para escolher onde e como construí-la faz toda a diferença."
+    }
   ]
 }
